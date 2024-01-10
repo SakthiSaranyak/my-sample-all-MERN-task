@@ -1,0 +1,49 @@
+#sita1{
+    position:relative;
+    left: 70px;
+    bottom: 45px;
+    
+}
+#aydoya{
+    position:absolute;
+    left:10px;
+}
+
+#sitaa{
+    position:absolute;
+    left: 275px;
+    top: 20px;
+}
+
+#ravan{
+    position:absolute;
+    left:570px;
+}
+#sithun{
+    position:absolute;
+    top: 190px;
+    left:10px;
+    
+}
+#ashoka{
+    position:absolute;
+    top: 370px;
+    left: 10px;
+}
+
+#hanfoot{
+    position:absolute;
+    top: 190px;
+    left: 290px;
+}
+
+#bridge{
+    position:absolute;
+    top: 190px;
+    left: 480px;
+}
+
+
+
+
+
